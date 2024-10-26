@@ -1,1 +1,1 @@
-# Guessthenumber.gitgub.io
+# Guessthenumber.github.io
